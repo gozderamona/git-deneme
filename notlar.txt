@@ -1,1 +1,2 @@
 merhaba git
+Bu satırı GitHub üzerinden ekledim.

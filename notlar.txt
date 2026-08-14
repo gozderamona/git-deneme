@@ -1,2 +1,2 @@
-merhaba main
+merhaba gözde
 Bu satırı GitHub üzerinden ekledim.

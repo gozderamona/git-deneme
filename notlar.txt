@@ -1,2 +1,2 @@
-merhaba git
+merhaba main
 Bu satırı GitHub üzerinden ekledim.
